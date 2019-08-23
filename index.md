@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Aviso de Privacidad
 
-You can use the [editor on GitHub](https://github.com/gerardoacuna/contact-fixer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Por medio del presente, la Sociedad le reitera que no almacenamos ningún dato personal del usuario en servidores ni bases de datos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Referente a cualquier información que nos proporcione por su libre voluntad, nos comprometemos con absoluta discreción y cuidado respecto de toda la información privada concerniente a su persona que usted nos proporcione, ya sea directa o indirectamente, a través de sitios de terceros, verbalmente o a través de medios impresos, electrónicos, digitales, ópticos, sonoros, visuales, foros de conversación también conocidos como chats y/o mediante cualquier otro medio (en lo sucesivo, los "Datos Personales") los cuales serán utilizados en forma general y conforme sean necesarios para (i) proveer los servicios que acordemos con usted de tiempo en tiempo y que nosotros estemos en posibilidad de ofrecer o brindar, (ii) para informarle sobre los cambios en los mismos, (iii) para evaluar la calidad de dichos servicios, (iv) para hacerle llegar información técnica y/o comercial acerca de nuestros servicios, (v) para hacerle llegar información de actualización que la Sociedad estime relevante y que se relacione con los servicios que éste le presta o pueda llegar a prestarle, (vi) en general, para analizar patrones de comportamiento y tendencias de los usuarios del los servicios, y (vii) para mantener una comunicación efectiva con usted (en lo sucesivo, las "Finalidades Primarias"). Los Datos Personales podrán incluir información privada y confidencial concerniente a su persona, que usted proporcione a la Sociedad por cualquier medio físico o de terceros a efecto que la Sociedad lleve a cabo las tareas necesarias para la prestación de los servicios de que se trate; en cuyo caso, la Sociedad mantendrá la privacidad y/o confidencialidad de dicha información, según corresponda, adoptando al efecto las mismas medidas de protección que la Sociedad utilice para preservar la confidencialidad de información propia.
 
-### Markdown
+Consecuentemente, la Sociedad será responsable de recabar sus Datos Personales, del uso que se le dé a los mismos y de su protección, en el entendido que dichos Datos Personales deberán de ser tratados por la Sociedad bajo los principios de licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad, según lo dispuesto en la Ley y el Reglamento. El proporcionar o el envío de los Datos Personales a la Sociedad, por cualquier persona utilizando algún medio señalado en el párrafo inmediato anterior, implica la aceptación y autorización expresa de dicha persona a la forma en que la Sociedad tratará (según dicho término es definido por la ley) sus Datos Personales de conformidad con lo dispuesto en el presente Aviso de Privacidad.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En caso que la Sociedad tratará con Datos Personales que afecten a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste, mismos que incluyen de manera enunciativa más no limitativa: datos sobre su origen racial o étnico, historial clínico y estado de salud, información genética, creencias religiosas, filosóficas y morales, afiliación sindical, opiniones políticas y preferencias sexuales (en lo sucesivo, los "Datos Personales Sensibles"). Le informamos que la Sociedad sólo tratará los Datos Personales Sensibles a efecto de facilitar el cumplimiento de las obligaciones derivadas de la relación jurídica que tiene con usted y para el cumplimiento de las Finalidades Primarias antes mencionadas. En el entendido que la Sociedad sólo puede utilizar o tratar dichos Datos Personales Sensibles, en la medida que usted haya otorgado su consentimiento expreso para tal efecto, conforme a lo establecido en el párrafo siguiente.
 
-```markdown
-Syntax highlighted code block
+Usted, en su carácter de titular de dichos Datos Personales podrá en cualquier momento revocar el consentimiento que ha otorgado a la Sociedad para el tratamiento de sus Datos Personales, limitar el uso o divulgación de los mismos, manifestarse en contra de las finalidades para las cuales serán utilizados sus Datos Personales, así como ejercer sus derechos de Acceso, Rectificación, Cancelación y Oposición (en lo sucesivo, los "Derechos ARCO") previstos en la Ley y el Reglamento, mediante los procedimientos que hemos establecido para tal efecto. El procedimiento y requisitos que deberá contener su solicitud de conformidad con lo dispuesto en la Ley y su Reglamento, son los siguientes:
 
-# Header 1
-## Header 2
-### Header 3
+(1) Nombre y Domicilio, si no se incluye la dirección se dará por no recibida la solicitud. (2) El documento que acredite su identidad o la personalidad de su representante (copia de identificación oficial vigente.) El representante deberá acreditar la identidad del titular, identidad del representante, y sus facultades de representación mediante instrumento público o carta poder firmada ante dos testigos, o declaración en comparecencia personal del titular; (3) La descripción clara y precisa de los datos personales a los que desea acceder, rectificar, cancelar u oponerse; (4) Descripción de otros elementos que faciliten la localización de sus datos personales (sitio Web, Sucursal).Los documentos deberán ser escaneados y adjuntados al correo electrónico para verificar la veracidad de los mismos.
 
-- Bulleted
-- List
+Para conocer dichos procedimientos, los requisitos y plazos, puede enviar un correo electrónico a devjerryapps@gmail.com o consultar nuestra Política de Privacidad en googleplay.
 
-1. Numbered
-2. List
+Para tal efecto la Sociedad ha designado al Departamento de Asuntos Generales para recibir y dar trámite a las solicitudes que procedan y que usted nos solicite en virtud del ejercicio de sus Derechos Arco. Con los siguientes datos de contacto:
 
-**Bold** and _Italic_ and `Code` text
+Correo electrónico: devjerryapps@gmail.com
 
-[Link](url) and ![Image](src)
-```
+La Sociedad podrá tratar su Datos Personales para finalidades secundarias que no sean necesarias o convenientes para el cumplimiento de las obligaciones derivadas de relación jurídica entre usted y la Sociedad, tales como informativos, publicitarios y/o promocionales (en lo sucesivo, las "Finalidades Secundarias"). En caso que usted desease revocar su consentimiento respecto al tratamiento de Datos Personales para Finalidades Secundarias, usted podrá enviar la solicitud respectiva a la Sociedad, a la siguiente dirección electrónica: EMAIL. La Sociedad le comunicará, en un plazo máximo de 20 (veinte) días hábiles, contados a partir de la fecha en que se recibió su solicitud para confirmarle al titular sobre el resultado de su solicitud.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+El presente Aviso de Privacidad podrá ser modificado o actualizado unilateralmente por la Sociedad, informándole a usted de dichos cambios a nuestra pagina de descarga en googleplay, por lo que es responsabilidad de usted estar al pendiente de la misma para informarse acerca de los cambios y/o actualizaciones.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gerardoacuna/contact-fixer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Derechos Reservados ©
